@@ -2,7 +2,7 @@
 # See README.md for instructions on how to do this
 
 def fizzbuzz(int)
-  if int % 3 == 0
+  if int % 3 == 0 and int % 5 == 0 = false 
     "Fizz"
   elsif int % 5 == 0
     "Buzz"
